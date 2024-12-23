@@ -22,7 +22,10 @@ This project aims to utilize the YOLO (You Only Look Once) model for detecting a
    ```bash
    pip install -r requirements.txt
    ```
-
+3. Install the necessary apt packages:
+   ```bash
+   sudo apt install libgtk2.0-dev pkg-config
+   ```
 ## Usage
 
 ### Training
